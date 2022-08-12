@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/snap/static/css/main.e0f0e8c3.css",
+    "main.js": "/snap/static/js/main.2d4d8500.js",
+    "static/media/image-hero-desktop.png": "/snap/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/snap/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
+    "static/media/client-databiz.svg": "/snap/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
+    "static/media/logo.svg": "/snap/static/media/logo.1c174ccea84ec59ff8801662c788919d.svg",
+    "static/media/client-maker.svg": "/snap/static/media/client-maker.3859368b1ba7e579d814353870c9edb0.svg",
+    "static/media/client-meet.svg": "/snap/static/media/client-meet.2d6ffbad4108ea24377c66fe7655736e.svg",
+    "static/media/client-audiophile.svg": "/snap/static/media/client-audiophile.8c670cdffe9fb124c848d53dcbee7913.svg",
+    "index.html": "/snap/index.html",
+    "static/media/icon-reminders.svg": "/snap/static/media/icon-reminders.d573f5028c4469edf76a0b57065af566.svg",
+    "static/media/icon-planning.svg": "/snap/static/media/icon-planning.7264cc64a81fa348da1d23defa87d2b5.svg",
+    "static/media/icon-calendar.svg": "/snap/static/media/icon-calendar.238c231afbc7d43b81c625ceea0d1b37.svg",
+    "static/media/icon-todo.svg": "/snap/static/media/icon-todo.84eeba8f3b9a1811c1ea3d7420dcfd98.svg",
+    "static/media/icon-close-menu.svg": "/snap/static/media/icon-close-menu.3f33fd68b142340b7eb8c6887f92ee0c.svg",
+    "static/media/icon-menu.svg": "/snap/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
+    "static/media/icon-arrow-down.svg": "/snap/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
+    "static/media/icon-arrow-up.svg": "/snap/static/media/icon-arrow-up.e63eb7175eb638dfb955d17f1c88a626.svg",
+    "main.e0f0e8c3.css.map": "/snap/static/css/main.e0f0e8c3.css.map",
+    "main.2d4d8500.js.map": "/snap/static/js/main.2d4d8500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f0e8c3.css",
+    "static/js/main.2d4d8500.js"
+  ]
+}
