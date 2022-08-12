@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/zaidsidd360/snap)
 - Live Site URL: (https://zaidsidd360.github.io/snap/)
 
 ## My process
@@ -40,7 +40,7 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Tailwind CSS](https://styled-components.com/) - For styles
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
 
 ### What I learned
 
@@ -61,7 +61,7 @@ const foo = (props) => {
 
 Also, for some reason, tailwind doesn't have class chaining at breakpoints.
 
-So instead of simply doing something like this
+So instead of doing something like this
 
 ```js
 <div className="md:(w-full h-full flex flex-row-reverse)">foo</div>
@@ -75,7 +75,7 @@ you have to add the <code>md:</code> breakpoint prefix to every class like this
 
 ### Useful resources
 
-- [Kevin Powell](https://www.example.com) - Hats off to this guy, best CSS instructor in the game. A must watch for every FE developer.
+- [Kevin Powell](https://www.youtube.com/kepowob) - Hats off to this guy, best CSS instructor in the game. A must watch for every FE developer.
 
 ## Author
 
