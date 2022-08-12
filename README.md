@@ -30,6 +30,11 @@ Users should be able to:
 ![](https://user-images.githubusercontent.com/87397035/184444771-395642b2-cbb4-43f2-8ffb-e01a6e413589.png)
 ![](https://user-images.githubusercontent.com/87397035/184445729-c7549575-7c3d-4320-b0ba-3b3a6005cf5f.png)
 
+#### Active/Hover states
+
+![](https://user-images.githubusercontent.com/87397035/184444529-9024b528-6edb-433f-838d-d63e24df8e39.png)
+![](https://user-images.githubusercontent.com/87397035/184444771-395642b2-cbb4-43f2-8ffb-e01a6e413589.png)
+![](https://user-images.githubusercontent.com/87397035/184445729-c7549575-7c3d-4320-b0ba-3b3a6005cf5f.png)
 
 
 ### Links
