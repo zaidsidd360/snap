@@ -9,7 +9,7 @@ import Meet from "../assets/client-meet.svg";
 const HeroSection = () => {
   return (
     <div className="md:flex md:justify-center md:items-center md:h-[80vh]">
-      <div className="top-15 absolute md:flex md:flex-row-reverse md:items-end md:justify-center md:w-full md:pt-16">
+      <div className="top-15 absolute md:flex md:flex-row-reverse md:items-end md:justify-between md:w-[70vw] md:pt-16">
         <div className="md:w-[500px]">
           <img className="md:hidden" src={ImageHeroMobile} alt="hero" />
           <img
@@ -18,13 +18,15 @@ const HeroSection = () => {
             alt="hero"
           />
         </div>
-        <div className="md:ml-20">
+        <div className="flex flex-col items-stretch">
           <div className="md:max-w-[600px]">
-            <h1 className="w-full text-center font-bold text-4xl mt-8 mb-4 px-2 md:text-left md:text-6xl md:mt-0 md:w-[480px] md:px-0">
+            <h1 className="w-full text-center font-bold text-4xl mt-8 mb-4 px-2 md:text-left md:text-8xl md:mt-0 md:w-[480px] md:px-0">
               Make
-              <br className="hidden md:flex" /> remote work
             </h1>
-            <p className="w-full text-center text-medium-gray font-medium p-1 text-lg md:text-left md:pr-32 md:my-10 md:text-lg">
+            <h1 className="w-full text-center font-bold text-4xl mt-8 mb-4 px-2 md:text-left md:text-8xl md:mt-0 md:w-[600px] md:px-0">
+              remote work
+            </h1>
+            <p className="w-full text-center text-medium-gray font-medium p-1 text-lg md:text-left md:pr-32 md:my-12 md:text-lg">
               Get your team in sync, no matter your location. Streamline
               processes, create team rituals, and watch productivity soar.
             </p>
